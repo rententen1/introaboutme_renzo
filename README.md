@@ -1,3 +1,5 @@
+a tiny introduction about me (i'm new here so i'm still exploring!)
+
 - 👋 Hi, I’m @rententen1 (aka renzo rodriguez)
 - 👀 I’m interested in a lot of things but also love fashion too (kinda best of worlds right?)
 - 🌱 I’m currently learning the basic fundamentals of coding as well as creating simple projects with Python
